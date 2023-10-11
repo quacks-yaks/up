@@ -7,6 +7,11 @@ sites:
     url: https://www.google.com
   - name: Jelly
     url: https://jelly.dis.dev
+  - name: Trans
+    url: https://trans.dis.dev
+    headers:
+      - "CF-Access-Client-Id: $CF_ID"
+      - "CF-Access-Client-Secret: $CF_SECRET"
 assignees:
   - thisguycodes
 
