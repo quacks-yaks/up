@@ -26,20 +26,20 @@ sites:
       - "CF-Access-Client-Secret: $CF_SECRET"
     expectedStatusCodes:
       - 200
-- name: Time
-    url: https://time.dis.dev
-    headers:
-      - "CF-Access-Client-Id: $CF_ID"
-      - "CF-Access-Client-Secret: $CF_SECRET"
-    expectedStatusCodes:
-      - 200
-- name: Files
-    url: https://files.dis.dev
-    headers:
-      - "CF-Access-Client-Id: $CF_ID"
-      - "CF-Access-Client-Secret: $CF_SECRET"
-    expectedStatusCodes:
-      - 200
+  - name: Time
+      url: https://time.dis.dev
+      headers:
+        - "CF-Access-Client-Id: $CF_ID"
+        - "CF-Access-Client-Secret: $CF_SECRET"
+      expectedStatusCodes:
+        - 200
+  - name: Files
+      url: https://files.dis.dev
+      headers:
+        - "CF-Access-Client-Id: $CF_ID"
+        - "CF-Access-Client-Secret: $CF_SECRET"
+      expectedStatusCodes:
+        - 200
 assignees:
   - thisguycodes
 
