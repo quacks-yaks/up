@@ -5,11 +5,13 @@ repo: up # The name of this repository
 sites:
   - name: Google
     url: https://www.google.com
+    maxRedirects: 0
   - name: Jelly
     url: https://jelly.dis.dev
     headers:
       - "CF-Access-Client-Id: $CF_ID"
       - "CF-Access-Client-Secret: $CF_SECRET"
+    maxRedirects: 0
     expectedStatusCodes:
       - 200
   - name: Trans
@@ -17,6 +19,7 @@ sites:
     headers:
       - "CF-Access-Client-Id: $CF_ID"
       - "CF-Access-Client-Secret: $CF_SECRET"
+    maxRedirects: 0
     expectedStatusCodes:
       - 200
   - name: Pikvm
@@ -24,6 +27,7 @@ sites:
     headers:
       - "CF-Access-Client-Id: $CF_ID"
       - "CF-Access-Client-Secret: $CF_SECRET"
+    maxRedirects: 0
     expectedStatusCodes:
       - 200
   - name: Time
@@ -31,6 +35,7 @@ sites:
     headers:
       - "CF-Access-Client-Id: $CF_ID"
       - "CF-Access-Client-Secret: $CF_SECRET"
+    maxRedirects: 0
     expectedStatusCodes:
       - 200
   - name: Files
@@ -38,6 +43,7 @@ sites:
     headers:
       - "CF-Access-Client-Id: $CF_ID"
       - "CF-Access-Client-Secret: $CF_SECRET"
+    maxRedirects: 0
     expectedStatusCodes:
       - 200
 assignees:
