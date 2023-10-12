@@ -5,45 +5,39 @@ repo: up # The name of this repository
 sites:
   - name: Google
     url: https://www.google.com
-    maxRedirects: 0
   - name: Jelly
     url: https://jelly.dis.dev
     headers:
-      - "CF-Access-Client-Id: cbeb5d59a678524f8f4d367a5643b57d.access"
+      - "CF-Access-Client-Id: $CF_ID"
       - "CF-Access-Client-Secret: $CF_SECRET"
-    maxRedirects: 0
     expectedStatusCodes:
       - 200
   - name: Trans
     url: https://trans.dis.dev
     headers:
-      - "CF-Access-Client-Id: cbeb5d59a678524f8f4d367a5643b57d.access"
+      - "CF-Access-Client-Id: $CF_ID"
       - "CF-Access-Client-Secret: $CF_SECRET"
-    maxRedirects: 0
     expectedStatusCodes:
       - 200
   - name: Pikvm
     url: https://pikvm.dis.dev
     headers:
-      - "CF-Access-Client-Id: cbeb5d59a678524f8f4d367a5643b57d.access"
+      - "CF-Access-Client-Id: $CF_ID"
       - "CF-Access-Client-Secret: $CF_SECRET"
-    maxRedirects: 0
     expectedStatusCodes:
       - 200
   - name: Time
     url: https://time.dis.dev
     headers:
-      - "CF-Access-Client-Id: cbeb5d59a678524f8f4d367a5643b57d.access"
+      - "CF-Access-Client-Id: $CF_ID"
       - "CF-Access-Client-Secret: $CF_SECRET"
-    maxRedirects: 0
     expectedStatusCodes:
       - 200
   - name: Files
     url: https://files.dis.dev
     headers:
-      - "CF-Access-Client-Id: cbeb5d59a678524f8f4d367a5643b57d.access"
+      - "CF-Access-Client-Id: $CF_ID"
       - "CF-Access-Client-Secret: $CF_SECRET"
-    maxRedirects: 0
     expectedStatusCodes:
       - 200
 assignees:
