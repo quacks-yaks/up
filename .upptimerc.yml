@@ -60,9 +60,9 @@ status-website:
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 workflowSchedule:
-  graphs: "30 * * * *"
   responseTime: "0 * * * *"
-  staticSite: "0 1 * * *"
+  graphs: "20 * * * *"
+  staticSite: "40 * * * *"
   summary: "0 0 * * *"
   updateTemplate: "0 0 * * *"
   updates: "0 3 * * *"
