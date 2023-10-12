@@ -9,7 +9,7 @@ sites:
   - name: Jelly
     url: https://jelly.dis.dev
     headers:
-      - "CF-Access-Client-Id: $CF_ID"
+      - "CF-Access-Client-Id: cbeb5d59a678524f8f4d367a5643b57d.access"
       - "CF-Access-Client-Secret: $CF_SECRET"
     maxRedirects: 0
     expectedStatusCodes:
@@ -17,7 +17,7 @@ sites:
   - name: Trans
     url: https://trans.dis.dev
     headers:
-      - "CF-Access-Client-Id: $CF_ID"
+      - "CF-Access-Client-Id: cbeb5d59a678524f8f4d367a5643b57d.access"
       - "CF-Access-Client-Secret: $CF_SECRET"
     maxRedirects: 0
     expectedStatusCodes:
@@ -25,7 +25,7 @@ sites:
   - name: Pikvm
     url: https://pikvm.dis.dev
     headers:
-      - "CF-Access-Client-Id: $CF_ID"
+      - "CF-Access-Client-Id: cbeb5d59a678524f8f4d367a5643b57d.access"
       - "CF-Access-Client-Secret: $CF_SECRET"
     maxRedirects: 0
     expectedStatusCodes:
@@ -33,7 +33,7 @@ sites:
   - name: Time
     url: https://time.dis.dev
     headers:
-      - "CF-Access-Client-Id: $CF_ID"
+      - "CF-Access-Client-Id: cbeb5d59a678524f8f4d367a5643b57d.access"
       - "CF-Access-Client-Secret: $CF_SECRET"
     maxRedirects: 0
     expectedStatusCodes:
@@ -41,7 +41,7 @@ sites:
   - name: Files
     url: https://files.dis.dev
     headers:
-      - "CF-Access-Client-Id: $CF_ID"
+      - "CF-Access-Client-Id: cbeb5d59a678524f8f4d367a5643b57d.access"
       - "CF-Access-Client-Secret: $CF_SECRET"
     maxRedirects: 0
     expectedStatusCodes:
