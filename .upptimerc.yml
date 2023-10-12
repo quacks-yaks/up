@@ -12,6 +12,7 @@ sites:
       - "CF-Access-Client-Secret: $CF_SECRET"
     expectedStatusCodes:
       - 200
+    __dangerous__body_down: '<base href="https://accounts.google.com/v3/signin/">'
   - name: Trans
     url: https://trans.dis.dev
     headers:
@@ -19,6 +20,7 @@ sites:
       - "CF-Access-Client-Secret: $CF_SECRET"
     expectedStatusCodes:
       - 200
+    __dangerous__body_down: '<base href="https://accounts.google.com/v3/signin/">'
   - name: Pikvm
     url: https://pikvm.dis.dev
     headers:
@@ -26,6 +28,7 @@ sites:
       - "CF-Access-Client-Secret: $CF_SECRET"
     expectedStatusCodes:
       - 200
+    __dangerous__body_down: '<base href="https://accounts.google.com/v3/signin/">'
   - name: Time
     url: https://time.dis.dev
     headers:
@@ -33,6 +36,7 @@ sites:
       - "CF-Access-Client-Secret: $CF_SECRET"
     expectedStatusCodes:
       - 200
+    __dangerous__body_down: '<base href="https://accounts.google.com/v3/signin/">'
   - name: Files
     url: https://files.dis.dev
     headers:
@@ -40,6 +44,7 @@ sites:
       - "CF-Access-Client-Secret: $CF_SECRET"
     expectedStatusCodes:
       - 200
+    __dangerous__body_down: '<base href="https://accounts.google.com/v3/signin/">'
 assignees:
   - thisguycodes
 
