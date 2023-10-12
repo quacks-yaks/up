@@ -12,7 +12,7 @@ sites:
       - "CF-Access-Client-Secret: $CF_SECRET"
     expectedStatusCodes:
       - 200
-    __dangerous__body_degraded: '<base href="https://accounts.google.com/v3/signin/">'
+    __dangerous__body_degraded: '<title>Sign in ・ Cloudflare Access</title>'
   - name: Trans
     url: https://trans.dis.dev
     headers:
@@ -20,7 +20,7 @@ sites:
       - "CF-Access-Client-Secret: $CF_SECRET"
     expectedStatusCodes:
       - 200
-    __dangerous__body_degraded: '<base href="https://accounts.google.com/v3/signin/">'
+    __dangerous__body_degraded: '<title>Sign in ・ Cloudflare Access</title>'
   - name: Pikvm
     url: https://pikvm.dis.dev
     headers:
@@ -28,7 +28,7 @@ sites:
       - "CF-Access-Client-Secret: $CF_SECRET"
     expectedStatusCodes:
       - 200
-    __dangerous__body_degraded: '<base href="https://accounts.google.com/v3/signin/">'
+    __dangerous__body_degraded: '<title>Sign in ・ Cloudflare Access</title>'
   - name: Time
     url: https://time.dis.dev
     headers:
@@ -36,7 +36,7 @@ sites:
       - "CF-Access-Client-Secret: $CF_SECRET"
     expectedStatusCodes:
       - 200
-    __dangerous__body_degraded: '<base href="https://accounts.google.com/v3/signin/">'
+    __dangerous__body_degraded: '<title>Sign in ・ Cloudflare Access</title>'
   - name: Files
     url: https://files.dis.dev
     headers:
@@ -44,7 +44,7 @@ sites:
       - "CF-Access-Client-Secret: $CF_SECRET"
     expectedStatusCodes:
       - 200
-    __dangerous__body_degraded: '<base href="https://accounts.google.com/v3/signin/">'
+    __dangerous__body_degraded: '<title>Sign in ・ Cloudflare Access</title>'
 assignees:
   - thisguycodes
 
