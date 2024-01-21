@@ -1,7 +1,7 @@
 url: https://trans.dis.dev
-status: up
-code: 200
-responseTime: 172
-lastUpdated: 2024-01-21T03:08:59.972Z
+status: down
+code: 502
+responseTime: 338
+lastUpdated: 2024-01-21T03:51:24.787Z
 startTime: 2023-10-14T04:32:19.226Z
 generator: Upptime <https://github.com/upptime/upptime>
