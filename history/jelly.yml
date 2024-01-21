@@ -1,7 +1,7 @@
 url: https://jelly.dis.dev
-status: up
-code: 200
-responseTime: 189
-lastUpdated: 2024-01-21T03:08:59.555Z
+status: down
+code: 503
+responseTime: 343
+lastUpdated: 2024-01-21T03:34:40.550Z
 startTime: 2023-10-14T04:32:18.464Z
 generator: Upptime <https://github.com/upptime/upptime>
