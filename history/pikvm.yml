@@ -1,7 +1,7 @@
 url: https://pikvm.dis.dev
-status: up
-code: 200
-responseTime: 649
-lastUpdated: 2024-08-03T20:09:16.173Z
+status: down
+code: 502
+responseTime: 3881
+lastUpdated: 2024-08-03T20:22:15.098Z
 startTime: 2023-10-14T04:32:19.961Z
 generator: Upptime <https://github.com/upptime/upptime>
