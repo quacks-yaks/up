@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 99,
-    "timeDay": 88,
-    "timeWeek": 94,
-    "timeMonth": 109,
-    "timeYear": 99,
+    "timeDay": 91,
+    "timeWeek": 93,
+    "timeMonth": 107,
+    "timeYear": 98,
     "dailyMinutesDown": {
       "2025-03-11": 8,
       "2025-01-22": 9
@@ -26,18 +26,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/jelly.dis.dev.ico",
     "slug": "jelly",
     "status": "down",
-    "uptime": "20.13%",
+    "uptime": "20.09%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 140,
-    "timeDay": 171,
-    "timeWeek": 166,
-    "timeMonth": 165,
+    "timeDay": 145,
+    "timeWeek": 161,
+    "timeMonth": 164,
     "timeYear": 140,
     "dailyMinutesDown": {
-      "2025-04-12": 50,
+      "2025-04-13": 139,
+      "2025-04-12": 1440,
       "2025-04-11": 1440,
       "2025-04-10": 1440,
       "2025-04-09": 1440,
@@ -400,8 +401,7 @@
       "2024-04-17": 1440,
       "2024-04-16": 1440,
       "2024-04-15": 1440,
-      "2024-04-14": 1440,
-      "2024-04-13": 1440
+      "2024-04-14": 1440
     }
   },
   {
@@ -410,18 +410,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/trans.dis.dev.ico",
     "slug": "trans",
     "status": "down",
-    "uptime": "20.09%",
+    "uptime": "20.05%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 140,
-    "timeDay": 167,
-    "timeWeek": 161,
-    "timeMonth": 167,
+    "timeDay": 139,
+    "timeWeek": 158,
+    "timeMonth": 166,
     "timeYear": 141,
     "dailyMinutesDown": {
-      "2025-04-12": 50,
+      "2025-04-13": 140,
+      "2025-04-12": 1440,
       "2025-04-11": 1440,
       "2025-04-10": 1440,
       "2025-04-09": 1440,
@@ -784,8 +785,7 @@
       "2024-04-17": 1440,
       "2024-04-16": 1440,
       "2024-04-15": 1440,
-      "2024-04-14": 1440,
-      "2024-04-13": 1440
+      "2024-04-14": 1440
     }
   },
   {
@@ -794,16 +794,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/pikvm.dis.dev.ico",
     "slug": "pikvm",
     "status": "up",
-    "uptime": "76.48%",
+    "uptime": "76.52%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "73.65%",
-    "time": 354,
-    "timeDay": 424,
-    "timeWeek": 444,
-    "timeMonth": 446,
-    "timeYear": 359,
+    "uptimeYear": "73.94%",
+    "time": 355,
+    "timeDay": 418,
+    "timeWeek": 443,
+    "timeMonth": 444,
+    "timeYear": 360,
     "dailyMinutesDown": {
       "2025-01-16": 155,
       "2024-12-22": 1389,
@@ -904,8 +904,7 @@
       "2024-04-17": 1440,
       "2024-04-16": 1440,
       "2024-04-15": 1440,
-      "2024-04-14": 1440,
-      "2024-04-13": 1440
+      "2024-04-14": 1440
     }
   },
   {
@@ -914,18 +913,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/time.dis.dev.ico",
     "slug": "time",
     "status": "down",
-    "uptime": "25.74%",
+    "uptime": "25.69%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 126,
-    "timeDay": 141,
-    "timeWeek": 145,
-    "timeMonth": 157,
+    "timeDay": 123,
+    "timeWeek": 142,
+    "timeMonth": 155,
     "timeYear": 126,
     "dailyMinutesDown": {
-      "2025-04-12": 51,
+      "2025-04-13": 141,
+      "2025-04-12": 1440,
       "2025-04-11": 1440,
       "2025-04-10": 1440,
       "2025-04-09": 1440,
@@ -1288,8 +1288,7 @@
       "2024-04-17": 1440,
       "2024-04-16": 1440,
       "2024-04-15": 1440,
-      "2024-04-14": 1440,
-      "2024-04-13": 1440
+      "2024-04-14": 1440
     }
   },
   {
@@ -1298,18 +1297,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/files.dis.dev.ico",
     "slug": "files",
     "status": "down",
-    "uptime": "20.13%",
+    "uptime": "20.09%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 122,
-    "timeDay": 168,
-    "timeWeek": 145,
+    "timeDay": 129,
+    "timeWeek": 146,
     "timeMonth": 145,
     "timeYear": 122,
     "dailyMinutesDown": {
-      "2025-04-12": 52,
+      "2025-04-13": 142,
+      "2025-04-12": 1440,
       "2025-04-11": 1440,
       "2025-04-10": 1440,
       "2025-04-09": 1440,
@@ -1672,8 +1672,7 @@
       "2024-04-17": 1440,
       "2024-04-16": 1440,
       "2024-04-15": 1440,
-      "2024-04-14": 1440,
-      "2024-04-13": 1440
+      "2024-04-14": 1440
     }
   }
 ]
