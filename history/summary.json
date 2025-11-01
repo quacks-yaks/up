@@ -11,9 +11,9 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.98%",
     "time": 106,
-    "timeDay": 92,
-    "timeWeek": 302,
-    "timeMonth": 185,
+    "timeDay": 101,
+    "timeWeek": 272,
+    "timeMonth": 186,
     "timeYear": 106,
     "dailyMinutesDown": {
       "2025-10-14": 1,
@@ -36,18 +36,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/jelly.dis.dev.ico",
     "slug": "jelly",
     "status": "down",
-    "uptime": "14.69%",
+    "uptime": "14.67%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 163,
-    "timeDay": 338,
-    "timeWeek": 196,
-    "timeMonth": 178,
+    "timeDay": 147,
+    "timeWeek": 193,
+    "timeMonth": 176,
     "timeYear": 163,
     "dailyMinutesDown": {
-      "2025-10-31": 54,
+      "2025-11-01": 56,
+      "2025-10-31": 1440,
       "2025-10-30": 1440,
       "2025-10-29": 1440,
       "2025-10-28": 1440,
@@ -410,8 +411,7 @@
       "2024-11-05": 1440,
       "2024-11-04": 1440,
       "2024-11-03": 1440,
-      "2024-11-02": 1440,
-      "2024-11-01": 1440
+      "2024-11-02": 1440
     }
   },
   {
@@ -420,18 +420,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/trans.dis.dev.ico",
     "slug": "trans",
     "status": "down",
-    "uptime": "14.66%",
+    "uptime": "14.64%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 163,
     "timeDay": 148,
-    "timeWeek": 168,
-    "timeMonth": 166,
+    "timeWeek": 165,
+    "timeMonth": 165,
     "timeYear": 163,
     "dailyMinutesDown": {
-      "2025-10-31": 55,
+      "2025-11-01": 57,
+      "2025-10-31": 1440,
       "2025-10-30": 1440,
       "2025-10-29": 1440,
       "2025-10-28": 1440,
@@ -794,8 +795,7 @@
       "2024-11-05": 1440,
       "2024-11-04": 1440,
       "2024-11-03": 1440,
-      "2024-11-02": 1440,
-      "2024-11-01": 1440
+      "2024-11-02": 1440
     }
   },
   {
@@ -804,15 +804,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/pikvm.dis.dev.ico",
     "slug": "pikvm",
     "status": "up",
-    "uptime": "66.99%",
+    "uptime": "67.03%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.08%",
     "uptimeMonth": "70.72%",
     "uptimeYear": "64.70%",
     "time": 347,
-    "timeDay": 517,
-    "timeWeek": 527,
-    "timeMonth": 393,
+    "timeDay": 480,
+    "timeWeek": 522,
+    "timeMonth": 394,
     "timeYear": 346,
     "dailyMinutesDown": {
       "2025-10-26": 92,
@@ -958,18 +958,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/time.dis.dev.ico",
     "slug": "time",
     "status": "down",
-    "uptime": "18.79%",
+    "uptime": "18.76%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 148,
-    "timeDay": 479,
-    "timeWeek": 233,
+    "timeDay": 125,
+    "timeWeek": 232,
     "timeMonth": 159,
     "timeYear": 148,
     "dailyMinutesDown": {
-      "2025-10-31": 57,
+      "2025-11-01": 58,
+      "2025-10-31": 1440,
       "2025-10-30": 1440,
       "2025-10-29": 1440,
       "2025-10-28": 1440,
@@ -1332,8 +1333,7 @@
       "2024-11-05": 1440,
       "2024-11-04": 1440,
       "2024-11-03": 1440,
-      "2024-11-02": 1440,
-      "2024-11-01": 1440
+      "2024-11-02": 1440
     }
   },
   {
@@ -1342,18 +1342,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/files.dis.dev.ico",
     "slug": "files",
     "status": "down",
-    "uptime": "14.69%",
+    "uptime": "14.67%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 142,
-    "timeDay": 149,
+    "timeDay": 129,
     "timeWeek": 153,
     "timeMonth": 144,
     "timeYear": 142,
     "dailyMinutesDown": {
-      "2025-10-31": 58,
+      "2025-11-01": 59,
+      "2025-10-31": 1440,
       "2025-10-30": 1440,
       "2025-10-29": 1440,
       "2025-10-28": 1440,
@@ -1716,8 +1717,7 @@
       "2024-11-05": 1440,
       "2024-11-04": 1440,
       "2024-11-03": 1440,
-      "2024-11-02": 1440,
-      "2024-11-01": 1440
+      "2024-11-02": 1440
     }
   }
 ]
