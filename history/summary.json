@@ -11,8 +11,8 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
     "time": 111,
-    "timeDay": 126,
-    "timeWeek": 115,
+    "timeDay": 90,
+    "timeWeek": 112,
     "timeMonth": 135,
     "timeYear": 111,
     "dailyMinutesDown": {
@@ -40,18 +40,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/jelly.dis.dev.ico",
     "slug": "jelly",
     "status": "down",
-    "uptime": "13.67%",
+    "uptime": "13.65%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 165,
-    "timeDay": 153,
-    "timeWeek": 147,
+    "timeDay": 133,
+    "timeWeek": 145,
     "timeMonth": 148,
     "timeYear": 165,
     "dailyMinutesDown": {
-      "2025-12-26": 59,
+      "2025-12-27": 56,
+      "2025-12-26": 1440,
       "2025-12-25": 1440,
       "2025-12-24": 1440,
       "2025-12-23": 1440,
@@ -414,8 +415,7 @@
       "2024-12-31": 1440,
       "2024-12-30": 1440,
       "2024-12-29": 1440,
-      "2024-12-28": 1440,
-      "2024-12-27": 1440
+      "2024-12-28": 1440
     }
   },
   {
@@ -424,18 +424,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/trans.dis.dev.ico",
     "slug": "trans",
     "status": "down",
-    "uptime": "13.64%",
+    "uptime": "13.62%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 164,
+    "time": 165,
     "timeDay": 146,
-    "timeWeek": 142,
-    "timeMonth": 143,
+    "timeWeek": 143,
+    "timeMonth": 144,
     "timeYear": 165,
     "dailyMinutesDown": {
-      "2025-12-26": 59,
+      "2025-12-27": 57,
+      "2025-12-26": 1440,
       "2025-12-25": 1440,
       "2025-12-24": 1440,
       "2025-12-23": 1440,
@@ -798,8 +799,7 @@
       "2024-12-31": 1440,
       "2024-12-30": 1440,
       "2024-12-29": 1440,
-      "2024-12-28": 1440,
-      "2024-12-27": 1440
+      "2024-12-28": 1440
     }
   },
   {
@@ -808,15 +808,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/pikvm.dis.dev.ico",
     "slug": "pikvm",
     "status": "up",
-    "uptime": "68.83%",
+    "uptime": "68.87%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "66.50%",
-    "time": 360,
-    "timeDay": 422,
-    "timeWeek": 512,
-    "timeMonth": 480,
+    "time": 361,
+    "timeDay": 626,
+    "timeWeek": 456,
+    "timeMonth": 484,
     "timeYear": 361,
     "dailyMinutesDown": {
       "2025-11-24": 592,
@@ -957,18 +957,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/time.dis.dev.ico",
     "slug": "time",
     "status": "down",
-    "uptime": "17.48%",
+    "uptime": "17.46%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 149,
-    "timeDay": 133,
-    "timeWeek": 128,
+    "timeDay": 108,
+    "timeWeek": 125,
     "timeMonth": 130,
     "timeYear": 150,
     "dailyMinutesDown": {
-      "2025-12-26": 61,
+      "2025-12-27": 58,
+      "2025-12-26": 1440,
       "2025-12-25": 1440,
       "2025-12-24": 1440,
       "2025-12-23": 1440,
@@ -1331,8 +1332,7 @@
       "2024-12-31": 1440,
       "2024-12-30": 1440,
       "2024-12-29": 1440,
-      "2024-12-28": 1440,
-      "2024-12-27": 1440
+      "2024-12-28": 1440
     }
   },
   {
@@ -1341,18 +1341,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/files.dis.dev.ico",
     "slug": "files",
     "status": "down",
-    "uptime": "13.67%",
+    "uptime": "13.65%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 143,
-    "timeDay": 122,
-    "timeWeek": 125,
+    "timeDay": 121,
+    "timeWeek": 124,
     "timeMonth": 126,
     "timeYear": 144,
     "dailyMinutesDown": {
-      "2025-12-26": 61,
+      "2025-12-27": 59,
+      "2025-12-26": 1440,
       "2025-12-25": 1440,
       "2025-12-24": 1440,
       "2025-12-23": 1440,
@@ -1715,8 +1716,7 @@
       "2024-12-31": 1440,
       "2024-12-30": 1440,
       "2024-12-29": 1440,
-      "2024-12-28": 1440,
-      "2024-12-27": 1440
+      "2024-12-28": 1440
     }
   }
 ]
