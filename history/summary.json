@@ -11,8 +11,8 @@
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.97%",
     "time": 112,
-    "timeDay": 140,
-    "timeWeek": 135,
+    "timeDay": 94,
+    "timeWeek": 134,
     "timeMonth": 120,
     "timeYear": 112,
     "dailyMinutesDown": {
@@ -42,18 +42,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/jelly.dis.dev.ico",
     "slug": "jelly",
     "status": "down",
-    "uptime": "13.42%",
+    "uptime": "13.40%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 165,
-    "timeDay": 151,
-    "timeWeek": 151,
-    "timeMonth": 146,
+    "timeDay": 139,
+    "timeWeek": 147,
+    "timeMonth": 145,
     "timeYear": 166,
     "dailyMinutesDown": {
-      "2026-01-10": 58,
+      "2026-01-11": 65,
+      "2026-01-10": 1440,
       "2026-01-09": 1440,
       "2026-01-08": 1440,
       "2026-01-07": 1440,
@@ -416,8 +417,7 @@
       "2025-01-15": 1440,
       "2025-01-14": 1440,
       "2025-01-13": 1440,
-      "2025-01-12": 1440,
-      "2025-01-11": 1440
+      "2025-01-12": 1440
     }
   },
   {
@@ -426,18 +426,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/trans.dis.dev.ico",
     "slug": "trans",
     "status": "down",
-    "uptime": "13.39%",
+    "uptime": "13.38%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 165,
-    "timeDay": 154,
+    "timeDay": 145,
     "timeWeek": 150,
     "timeMonth": 142,
     "timeYear": 166,
     "dailyMinutesDown": {
-      "2026-01-10": 59,
+      "2026-01-11": 65,
+      "2026-01-10": 1440,
       "2026-01-09": 1440,
       "2026-01-08": 1440,
       "2026-01-07": 1440,
@@ -800,8 +801,7 @@
       "2025-01-15": 1440,
       "2025-01-14": 1440,
       "2025-01-13": 1440,
-      "2025-01-12": 1440,
-      "2025-01-11": 1440
+      "2025-01-12": 1440
     }
   },
   {
@@ -810,15 +810,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/pikvm.dis.dev.ico",
     "slug": "pikvm",
     "status": "up",
-    "uptime": "69.40%",
+    "uptime": "69.44%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "66.50%",
     "time": 365,
-    "timeDay": 507,
-    "timeWeek": 509,
-    "timeMonth": 479,
+    "timeDay": 454,
+    "timeWeek": 494,
+    "timeMonth": 481,
     "timeYear": 365,
     "dailyMinutesDown": {
       "2025-11-24": 592,
@@ -959,18 +959,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/time.dis.dev.ico",
     "slug": "time",
     "status": "down",
-    "uptime": "17.16%",
+    "uptime": "17.14%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 150,
-    "timeDay": 129,
-    "timeWeek": 133,
-    "timeMonth": 128,
+    "timeDay": 121,
+    "timeWeek": 131,
+    "timeMonth": 127,
     "timeYear": 150,
     "dailyMinutesDown": {
-      "2026-01-10": 60,
+      "2026-01-11": 66,
+      "2026-01-10": 1440,
       "2026-01-09": 1440,
       "2026-01-08": 1440,
       "2026-01-07": 1440,
@@ -1333,8 +1334,7 @@
       "2025-01-15": 1440,
       "2025-01-14": 1440,
       "2025-01-13": 1440,
-      "2025-01-12": 1440,
-      "2025-01-11": 1440
+      "2025-01-12": 1440
     }
   },
   {
@@ -1343,18 +1343,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/files.dis.dev.ico",
     "slug": "files",
     "status": "down",
-    "uptime": "13.42%",
+    "uptime": "13.40%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 143,
-    "timeDay": 118,
-    "timeWeek": 126,
-    "timeMonth": 123,
+    "timeDay": 110,
+    "timeWeek": 125,
+    "timeMonth": 122,
     "timeYear": 144,
     "dailyMinutesDown": {
-      "2026-01-10": 60,
+      "2026-01-11": 67,
+      "2026-01-10": 1440,
       "2026-01-09": 1440,
       "2026-01-08": 1440,
       "2026-01-07": 1440,
@@ -1717,8 +1718,7 @@
       "2025-01-15": 1440,
       "2025-01-14": 1440,
       "2025-01-13": 1440,
-      "2025-01-12": 1440,
-      "2025-01-11": 1440
+      "2025-01-12": 1440
     }
   }
 ]
