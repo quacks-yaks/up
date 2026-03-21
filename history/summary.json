@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 118,
-    "timeDay": 131,
-    "timeWeek": 114,
-    "timeMonth": 111,
+    "timeDay": 124,
+    "timeWeek": 116,
+    "timeMonth": 109,
     "timeYear": 118,
     "dailyMinutesDown": {
       "2026-01-11": 19,
@@ -41,18 +41,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/jelly.dis.dev.ico",
     "slug": "jelly",
     "status": "down",
-    "uptime": "12.37%",
+    "uptime": "12.36%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
     "uptimeYear": "0.00%",
     "time": 175,
-    "timeDay": 153,
-    "timeWeek": 272,
+    "timeDay": 141,
+    "timeWeek": 143,
     "timeMonth": 213,
     "timeYear": 175,
     "dailyMinutesDown": {
-      "2026-03-20": 72,
+      "2026-03-21": 68,
+      "2026-03-20": 1440,
       "2026-03-19": 1440,
       "2026-03-18": 1440,
       "2026-03-17": 1440,
@@ -415,8 +416,7 @@
       "2025-03-25": 1440,
       "2025-03-24": 1440,
       "2025-03-23": 1440,
-      "2025-03-22": 1440,
-      "2025-03-21": 1440
+      "2025-03-22": 1440
     }
   },
   {
@@ -425,18 +425,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/trans.dis.dev.ico",
     "slug": "trans",
     "status": "down",
-    "uptime": "12.35%",
+    "uptime": "12.34%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
     "uptimeYear": "0.00%",
     "time": 175,
-    "timeDay": 152,
-    "timeWeek": 140,
+    "timeDay": 153,
+    "timeWeek": 142,
     "timeMonth": 187,
     "timeYear": 175,
     "dailyMinutesDown": {
-      "2026-03-20": 73,
+      "2026-03-21": 68,
+      "2026-03-20": 1440,
       "2026-03-19": 1440,
       "2026-03-18": 1440,
       "2026-03-17": 1440,
@@ -799,8 +800,7 @@
       "2025-03-25": 1440,
       "2025-03-24": 1440,
       "2025-03-23": 1440,
-      "2025-03-22": 1440,
-      "2025-03-21": 1440
+      "2025-03-22": 1440
     }
   },
   {
@@ -809,15 +809,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/pikvm.dis.dev.ico",
     "slug": "pikvm",
     "status": "up",
-    "uptime": "71.77%",
+    "uptime": "71.81%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "66.52%",
     "time": 381,
-    "timeDay": 438,
-    "timeWeek": 451,
-    "timeMonth": 437,
+    "timeDay": 456,
+    "timeWeek": 461,
+    "timeMonth": 438,
     "timeYear": 380,
     "dailyMinutesDown": {
       "2026-02-04": 26,
@@ -959,18 +959,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/time.dis.dev.ico",
     "slug": "time",
     "status": "down",
-    "uptime": "15.83%",
+    "uptime": "15.81%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
     "uptimeYear": "0.00%",
     "time": 156,
-    "timeDay": 135,
+    "timeDay": 131,
     "timeWeek": 129,
-    "timeMonth": 128,
+    "timeMonth": 129,
     "timeYear": 157,
     "dailyMinutesDown": {
-      "2026-03-20": 75,
+      "2026-03-21": 69,
+      "2026-03-20": 1440,
       "2026-03-19": 1440,
       "2026-03-18": 1440,
       "2026-03-17": 1440,
@@ -1333,8 +1334,7 @@
       "2025-03-25": 1440,
       "2025-03-24": 1440,
       "2025-03-23": 1440,
-      "2025-03-22": 1440,
-      "2025-03-21": 1440
+      "2025-03-22": 1440
     }
   },
   {
@@ -1343,18 +1343,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/files.dis.dev.ico",
     "slug": "files",
     "status": "down",
-    "uptime": "12.38%",
+    "uptime": "12.36%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
     "uptimeYear": "0.00%",
     "time": 159,
-    "timeDay": 132,
+    "timeDay": 131,
     "timeWeek": 127,
-    "timeMonth": 130,
+    "timeMonth": 131,
     "timeYear": 159,
     "dailyMinutesDown": {
-      "2026-03-20": 75,
+      "2026-03-21": 70,
+      "2026-03-20": 1440,
       "2026-03-19": 1440,
       "2026-03-18": 1440,
       "2026-03-17": 1440,
@@ -1717,8 +1718,7 @@
       "2025-03-25": 1440,
       "2025-03-24": 1440,
       "2025-03-23": 1440,
-      "2025-03-22": 1440,
-      "2025-03-21": 1440
+      "2025-03-22": 1440
     }
   }
 ]
