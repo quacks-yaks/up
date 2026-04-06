@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 118,
-    "timeDay": 104,
-    "timeWeek": 117,
-    "timeMonth": 115,
+    "timeDay": 125,
+    "timeWeek": 119,
+    "timeMonth": 116,
     "timeYear": 118,
     "dailyMinutesDown": {
       "2026-01-11": 19,
@@ -41,18 +41,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/jelly.dis.dev.ico",
     "slug": "jelly",
     "status": "down",
-    "uptime": "12.16%",
+    "uptime": "12.14%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 178,
-    "timeDay": 146,
-    "timeWeek": 145,
+    "timeDay": 156,
+    "timeWeek": 147,
     "timeMonth": 251,
     "timeYear": 178,
     "dailyMinutesDown": {
-      "2026-04-05": 84,
+      "2026-04-06": 85,
+      "2026-04-05": 1440,
       "2026-04-04": 1440,
       "2026-04-03": 1440,
       "2026-04-02": 1440,
@@ -415,8 +416,7 @@
       "2025-04-10": 1440,
       "2025-04-09": 1440,
       "2025-04-08": 1440,
-      "2025-04-07": 1440,
-      "2025-04-06": 1440
+      "2025-04-07": 1440
     }
   },
   {
@@ -425,18 +425,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/trans.dis.dev.ico",
     "slug": "trans",
     "status": "down",
-    "uptime": "12.13%",
+    "uptime": "12.12%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 174,
-    "timeDay": 140,
+    "timeDay": 147,
     "timeWeek": 149,
-    "timeMonth": 147,
+    "timeMonth": 148,
     "timeYear": 175,
     "dailyMinutesDown": {
-      "2026-04-05": 85,
+      "2026-04-06": 85,
+      "2026-04-05": 1440,
       "2026-04-04": 1440,
       "2026-04-03": 1440,
       "2026-04-02": 1440,
@@ -799,8 +800,7 @@
       "2025-04-10": 1440,
       "2025-04-09": 1440,
       "2025-04-08": 1440,
-      "2025-04-07": 1440,
-      "2025-04-06": 1440
+      "2025-04-07": 1440
     }
   },
   {
@@ -809,15 +809,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/pikvm.dis.dev.ico",
     "slug": "pikvm",
     "status": "up",
-    "uptime": "72.27%",
+    "uptime": "72.30%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "66.52%",
     "time": 380,
-    "timeDay": 421,
-    "timeWeek": 405,
-    "timeMonth": 431,
+    "timeDay": 454,
+    "timeWeek": 419,
+    "timeMonth": 432,
     "timeYear": 378,
     "dailyMinutesDown": {
       "2026-02-04": 26,
@@ -959,18 +959,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/time.dis.dev.ico",
     "slug": "time",
     "status": "down",
-    "uptime": "15.55%",
+    "uptime": "15.53%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 156,
-    "timeDay": 115,
-    "timeWeek": 132,
+    "timeDay": 127,
+    "timeWeek": 133,
     "timeMonth": 130,
     "timeYear": 155,
     "dailyMinutesDown": {
-      "2026-04-05": 86,
+      "2026-04-06": 87,
+      "2026-04-05": 1440,
       "2026-04-04": 1440,
       "2026-04-03": 1440,
       "2026-04-02": 1440,
@@ -1333,8 +1334,7 @@
       "2025-04-10": 1440,
       "2025-04-09": 1440,
       "2025-04-08": 1440,
-      "2025-04-07": 1440,
-      "2025-04-06": 1440
+      "2025-04-07": 1440
     }
   },
   {
@@ -1343,18 +1343,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/files.dis.dev.ico",
     "slug": "files",
     "status": "down",
-    "uptime": "12.16%",
+    "uptime": "12.14%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 162,
-    "timeDay": 134,
-    "timeWeek": 130,
+    "timeDay": 121,
+    "timeWeek": 131,
     "timeMonth": 174,
     "timeYear": 162,
     "dailyMinutesDown": {
-      "2026-04-05": 86,
+      "2026-04-06": 88,
+      "2026-04-05": 1440,
       "2026-04-04": 1440,
       "2026-04-03": 1440,
       "2026-04-02": 1440,
@@ -1717,8 +1718,7 @@
       "2025-04-10": 1440,
       "2025-04-09": 1440,
       "2025-04-08": 1440,
-      "2025-04-07": 1440,
-      "2025-04-06": 1440
+      "2025-04-07": 1440
     }
   }
 ]
