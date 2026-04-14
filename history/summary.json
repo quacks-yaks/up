@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 118,
-    "timeDay": 94,
-    "timeWeek": 100,
+    "timeDay": 97,
+    "timeWeek": 99,
     "timeMonth": 114,
     "timeYear": 118,
     "dailyMinutesDown": {
@@ -41,18 +41,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/jelly.dis.dev.ico",
     "slug": "jelly",
     "status": "down",
-    "uptime": "12.05%",
+    "uptime": "12.04%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 177,
-    "timeDay": 148,
+    "timeDay": 142,
     "timeWeek": 147,
-    "timeMonth": 219,
+    "timeMonth": 189,
     "timeYear": 178,
     "dailyMinutesDown": {
-      "2026-04-13": 90,
+      "2026-04-14": 88,
+      "2026-04-13": 1440,
       "2026-04-12": 1440,
       "2026-04-11": 1440,
       "2026-04-10": 1440,
@@ -415,8 +416,7 @@
       "2025-04-18": 1440,
       "2025-04-17": 1440,
       "2025-04-16": 1440,
-      "2025-04-15": 1440,
-      "2025-04-14": 1440
+      "2025-04-15": 1440
     }
   },
   {
@@ -425,18 +425,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/trans.dis.dev.ico",
     "slug": "trans",
     "status": "down",
-    "uptime": "12.03%",
+    "uptime": "12.01%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 175,
-    "timeDay": 146,
-    "timeWeek": 157,
+    "time": 174,
+    "timeDay": 164,
+    "timeWeek": 160,
     "timeMonth": 152,
     "timeYear": 175,
     "dailyMinutesDown": {
-      "2026-04-13": 91,
+      "2026-04-14": 89,
+      "2026-04-13": 1440,
       "2026-04-12": 1440,
       "2026-04-11": 1440,
       "2026-04-10": 1440,
@@ -799,8 +800,7 @@
       "2025-04-18": 1440,
       "2025-04-17": 1440,
       "2025-04-16": 1440,
-      "2025-04-15": 1440,
-      "2025-04-14": 1440
+      "2025-04-15": 1440
     }
   },
   {
@@ -809,15 +809,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/pikvm.dis.dev.ico",
     "slug": "pikvm",
     "status": "up",
-    "uptime": "72.52%",
+    "uptime": "72.55%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "66.52%",
     "time": 378,
-    "timeDay": 377,
-    "timeWeek": 420,
-    "timeMonth": 428,
+    "timeDay": 407,
+    "timeWeek": 411,
+    "timeMonth": 429,
     "timeYear": 377,
     "dailyMinutesDown": {
       "2026-02-04": 26,
@@ -959,18 +959,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/time.dis.dev.ico",
     "slug": "time",
     "status": "down",
-    "uptime": "15.41%",
+    "uptime": "15.39%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 155,
-    "timeDay": 119,
-    "timeWeek": 133,
+    "timeDay": 124,
+    "timeWeek": 129,
     "timeMonth": 131,
     "timeYear": 155,
     "dailyMinutesDown": {
-      "2026-04-13": 92,
+      "2026-04-14": 90,
+      "2026-04-13": 1440,
       "2026-04-12": 1440,
       "2026-04-11": 1440,
       "2026-04-10": 1440,
@@ -1333,8 +1334,7 @@
       "2025-04-18": 1440,
       "2025-04-17": 1440,
       "2025-04-16": 1440,
-      "2025-04-15": 1440,
-      "2025-04-14": 1440
+      "2025-04-15": 1440
     }
   },
   {
@@ -1343,18 +1343,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/files.dis.dev.ico",
     "slug": "files",
     "status": "down",
-    "uptime": "12.05%",
+    "uptime": "12.04%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 162,
-    "timeDay": 125,
-    "timeWeek": 134,
-    "timeMonth": 176,
+    "timeDay": 137,
+    "timeWeek": 132,
+    "timeMonth": 177,
     "timeYear": 162,
     "dailyMinutesDown": {
-      "2026-04-13": 92,
+      "2026-04-14": 90,
+      "2026-04-13": 1440,
       "2026-04-12": 1440,
       "2026-04-11": 1440,
       "2026-04-10": 1440,
@@ -1717,8 +1718,7 @@
       "2025-04-18": 1440,
       "2025-04-17": 1440,
       "2025-04-16": 1440,
-      "2025-04-15": 1440,
-      "2025-04-14": 1440
+      "2025-04-15": 1440
     }
   }
 ]
